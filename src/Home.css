@@ -1,0 +1,33 @@
+.home{
+    max-width: 1500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.home_image{
+    width: 100%;
+    max-width: 1500px;
+    margin-left: auto;
+    margin-right: auto;
+    z-index: -1;
+    margin-bottom: -200px;
+}
+
+.home_row{
+    display: flex;
+    justify-content: center;
+    z-index: 1;
+    margin-left: 5px;
+    margin-right: 5px;
+
+} 
+.home_row_3>.product{
+
+    max-width: unset;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+
+} 
+.home>.home_row:nth-child(3){
+
+}
