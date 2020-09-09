@@ -14,7 +14,7 @@ function Home() {
             title="Shure AONIC 50 Wireless Noise Cancelling Headphones, Premium Studio-Quality Sound, Bluetooth 5 Wireless Technology, Comfort Fit Over Ear, 20 Hours Battery Life, Fingertip Controls - Brown"
             id="123332223"
             price={399.99}
-            rating={5}
+            rating={4}
             image="https://images-na.ssl-images-amazon.com/images/I/7110DE2XQLL._AC_SX425_.jpg"
             
             />
@@ -22,7 +22,7 @@ function Home() {
             title="DJI Mavic Mini - Drone FlyCam Quadcopter UAV with 2.7K Camera 3-Axis Gimbal GPS 30min Flight Time, less than 0.55lbs, Gray"
             id="2993883"
             price={399.99}
-            rating={5}
+            rating={3}
             image="https://images-na.ssl-images-amazon.com/images/I/71Rl8Rfd8vL._AC_SX679_.jpg"
             
             />
@@ -34,7 +34,7 @@ function Home() {
             title="Nanoleaf Rhythm Edition Smarter Kit - NL28-2003TW-9PK"
             id="123455999392"
             price={249.99}
-            rating={5}
+            rating={3}
             image="https://images-na.ssl-images-amazon.com/images/I/71ZgOVkdBuL._AC_SX522_.jpg"
             
             />
@@ -50,7 +50,7 @@ function Home() {
             title="MediCos JoJo's Bizarre Adventure: Golden Wind: Giorno Giovanna Nendoroid Action Figure"
             id="12345774774592"
             price={70.00}
-            rating={5}
+            rating={2}
             image="https://images-na.ssl-images-amazon.com/images/I/51CPGlVGfQL._AC_SY879_.jpg"
             
             />

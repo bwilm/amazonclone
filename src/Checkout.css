@@ -1,6 +1,7 @@
 img.checkout_ad{
     width: auto;
     margin-top: 1em;
+    margin-left: 1em;
 
     margin-bottom: 10px;
     object-fit: contain;
@@ -8,4 +9,9 @@ img.checkout_ad{
 
 .checkout_title{
 margin-top: 1em;
+margin-left: 1em;
+}
+
+.checkout{
+    display: flex;
 }
