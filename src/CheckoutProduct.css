@@ -37,3 +37,8 @@ padding-bottom:30px;
     border-color: #a88734 #9c7e31 #846a29;
     color: #111;
 }
+
+.checkout_container{
+    display: flex;
+    padding: 1em;
+}

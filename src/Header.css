@@ -2,6 +2,8 @@
     width: 80px;
     margin: 0 20px;
     object-fit: contain;
+    margin-top: 15px;
+    margin-bottom: 5px;
 }
 .header{
     background-color: #212e3c;

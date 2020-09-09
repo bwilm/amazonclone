@@ -36,6 +36,8 @@
     background-color: #f0c14b;
     border: 1px solid;
     border-color: #a88734 #9c7e31 #846a29;
-    min-width: 225px;
+    width: 225px;
     align-self: center;
+    margin-left: 5px;
+    margin-right: 5px;
 }
